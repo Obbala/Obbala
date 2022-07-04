@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Obbala
 - 👀 I’m interested in ... Music
-- 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...simple to complex projects
 - 📫 How to reach me ... 
 
